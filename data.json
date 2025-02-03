@@ -1,12 +1,12 @@
 [
   {
-    "hero": "Alucard",
-    "image": "https://example.com/alucard.jpg",
-    "skin": "https://example.com/alucard_skin.jpg"
+    "hero": "Gusion",
+    "image": "https://i.ibb.co.com/k2fqSYJQ/8749ee9bf952dc00e62aeddcbdcddd20.jpg",
+    "skin": "https://github.com/Lioxmenthol/Sc-Assassin-2024/raw/refs/heads/main/GusionSpider.zip"
   },
   {
-    "hero": "Layla",
-    "image": "https://example.com/layla.jpg",
-    "skin": "https://example.com/layla_skin.jpg"
+    "hero": "Alucard",
+    "image": "https://i.ibb.co.com/k2fqSYJQ/8749ee9bf952dc00e62aeddcbdcddd20.jpg",
+    "skin": "https://github.com/Lioxmenthol/Sc-Assassin-2024/raw/refs/heads/main/GusionSpider.zip"
   }
 ]
