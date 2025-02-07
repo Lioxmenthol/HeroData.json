@@ -1,12 +1,12 @@
 [
   {
-    "hero": "Gusion",
-    "image": "https://i.ibb.co.com/k2fqSYJQ/8749ee9bf952dc00e62aeddcbdcddd20.jpg",
+    "textview1": "Gusion",
+    "imageview1": "https://i.ibb.co.com/k2fqSYJQ/8749ee9bf952dc00e62aeddcbdcddd20.jpg",
     "skin": "https://github.com/Lioxmenthol/Sc-Assassin-2024/raw/refs/heads/main/GusionSpider.zip"
   },
   {
-    "hero": "Alucard",
-    "image": "https://i.ibb.co.com/k2fqSYJQ/8749ee9bf952dc00e62aeddcbdcddd20.jpg",
+    "textview1": "Alucard",
+    "imageview1": "https://i.ibb.co.com/k2fqSYJQ/8749ee9bf952dc00e62aeddcbdcddd20.jpg",
     "skin": "https://github.com/Lioxmenthol/Sc-Assassin-2024/raw/refs/heads/main/GusionSpider.zip"
   }
 ]
